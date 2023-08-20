@@ -122,6 +122,19 @@ To use this project:
 4. Using the Exported Model:
 - Refer to the "App Execution" section in this README for instructions on how to load the exported model and make predictions on new data.
 
+## Conclusions 
+
+Random Forest Classifier emerged as the best model for predicting customer churn. This model demonstrated a robust ability to accurately predict whether a customer is likely to churn or not.
+
+## Key Insights :chart_with_upwards_trend:
+
+✨ Customer churn rate decreases with an increase in tenure :chart_with_upwards_trend:
+
+✨ Availability of additional services plays a crucial role in reducing customer churn :chart_with_upwards_trend:
+
+✨ customers on long-term contracts are less likely to churn compared to those on month-to-month contracts :chart_with_upwards_trend:
+
+
 ## Appreciation
 -   I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about https://medium.com/@azubiafrica and take a few minutes to visit this link to learn more about Azubi Africa life-changing https://bit.ly/41CGCwK 
 
