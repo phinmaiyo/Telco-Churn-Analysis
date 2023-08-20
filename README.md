@@ -125,15 +125,15 @@ To use this project:
 - Refer to the "App Execution" section in this README for instructions on how to load the exported model and make predictions on new data.
 
 ## Appreciation
-
-
 -   I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about https://medium.com/@azubiafrica and take a few minutes to visit this link to learn more about Azubi Africa life-changing https://bit.ly/41CGCwK 
 
 -  **Tags**
 
 https://bit.ly/3ARq742
 
+
 ## Author
+
 `Phonex Chemutai`
 
 `Data Analyst`
