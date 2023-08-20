@@ -90,3 +90,51 @@ Follow these steps to set up the project on your local machine:
   If desired, export the best trained model using the provided export script.
 
 ## App Execution
+
+To use the exported best model for predictions:
+1. Load the exported model:
+In your Python script or notebook, load the saved model using pickle:
+import pickle
+
+with open('export/customer_churn_model.pkl', 'rb') as f:
+  best_model = pickle.load(f)
+
+2. Make predictions:
+Use the loaded model to make predictions on new data:
+new_data = ...  # Prepare your new data
+predictions = best_model.predict(new_data)
+
+3. Interpret predictions:
+- Interpret the predictions according to your problem domain and make decisions based on the results.
+
+## Usage
+
+To use this project:
+
+1. Exploratory Data Analysis:
+- Open the provided Jupyter Notebook (Telco_Churn.ipynb) and follow the step-by-step guide to explore the dataset, visualize data, and gain insights.
+
+2. Model Training and Tuning:
+- Open the notebook to see how different machine learning models are trained, tuned, and evaluated for Telco Churn prediction.
+
+3. Exporting the Best Model:
+- If you want to export the best trained model, run the export script (export_best_model.py). The exported model can be loaded and used for predictions.
+
+4. Using the Exported Model:
+- Refer to the "App Execution" section in this README for instructions on how to load the exported model and make predictions on new data.
+
+## Appreciation
+-   I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about https://medium.com/@azubiafrica and take a few minutes to visit this link to learn more about Azubi Africa life-changing https://bit.ly/41CGCwK 
+
+-  **Tags**
+
+https://bit.ly/3ARq742
+
+
+## Author
+
+`Phonex Chemutai`
+
+`Data Analyst`
+
+`Azubi Africa`
