@@ -89,7 +89,7 @@ Follow these steps to set up the project on your local machine:
 7. Export the best model:
     If desired, export the best trained model using the provided export script.
 
-## App Execution
+### App Execution
 
 To use the exported best model for predictions:
 1. Load the exported model:
