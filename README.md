@@ -89,7 +89,7 @@ Follow these steps to set up the project on your local machine:
 7. Export the best model:
     If desired, export the best trained model using the provided export script.
 
-### App Execution
+## App Execution
 
 To use the exported best model for predictions:
 1. Load the exported model:
@@ -108,6 +108,8 @@ predictions = best_model.predict(new_data)
 - Interpret the predictions according to your problem domain and make decisions based on the results.
 
 ## Usage
+
+
 To use this project:
 
 1. Exploratory Data Analysis:
@@ -123,6 +125,8 @@ To use this project:
 - Refer to the "App Execution" section in this README for instructions on how to load the exported model and make predictions on new data.
 
 ## Appreciation
+
+
 -   I highly recommend Azubi Africa for their comprehensive and effective programs. Read More articles about https://medium.com/@azubiafrica and take a few minutes to visit this link to learn more about Azubi Africa life-changing https://bit.ly/41CGCwK 
 
 -  **Tags**
