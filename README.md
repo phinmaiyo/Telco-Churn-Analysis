@@ -91,6 +91,7 @@ Follow these steps to set up the project on your local machine:
 
 ## App Execution
 
+
 To use the exported best model for predictions:
 1. Load the exported model:
 In your Python script or notebook, load the saved model using pickle:
@@ -108,7 +109,6 @@ predictions = best_model.predict(new_data)
 - Interpret the predictions according to your problem domain and make decisions based on the results.
 
 ## Usage
-
 
 To use this project:
 
